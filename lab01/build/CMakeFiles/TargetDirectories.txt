@@ -1,0 +1,5 @@
+/home/serafim/programses/lab/build/CMakeFiles/task.dir
+/home/serafim/programses/lab/build/CMakeFiles/tests.dir
+/home/serafim/programses/lab/build/CMakeFiles/test.dir
+/home/serafim/programses/lab/build/CMakeFiles/edit_cache.dir
+/home/serafim/programses/lab/build/CMakeFiles/rebuild_cache.dir
