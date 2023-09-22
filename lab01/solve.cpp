@@ -6,7 +6,7 @@ int number_vowels(std::string & s) {
         bool is_vowel = false;
         for (char v : vowels) {
             if (c == v) {
-                num++;
+                ++num;
                 break;
             }
         }
