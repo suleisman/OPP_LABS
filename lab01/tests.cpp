@@ -2,8 +2,8 @@
 #include "solve.hpp"
 
 TEST(test01, vowels) {
-    std::string s = "this website is for losers lol!";
-    ASSERT_TRUE(number_vowels(s) == 9);
+    std::string s = "this this this this";
+    ASSERT_TRUE(number_vowels(s) == 4);
 }
 
 TEST(test02, vowels) {
@@ -17,7 +17,7 @@ TEST(test03, vowels) {
 }
 
 TEST(test04, vowels) {
-    std::string s = "a b c d e?";
+    std::string s = "a b v b b c d e?";
     ASSERT_TRUE(number_vowels(s) == 2);
 }
 
